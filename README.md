@@ -10,6 +10,6 @@
 - 💬 Pergunte-me sobre ...
 - 📫 Como entrar em contato comigo:(42)999707759
 - 😄 Estado civil: namorando
-- ⚡ Curiosidade: 
+- ⚡ Curiosidade:nada
 
 !img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
